@@ -1,0 +1,18 @@
+1-Make Views to display,insert,update and delete in  emp list 
+
+display view to show Emp list in html table
+Insert view to add New Emp in list
+update view to update exist Emp in list
+Delete view to Delete exist Emp in list
+
+Ex:
+emp_list=[
+{"id":2,"name":"Manal Fakieh","salary":5000},
+{"id":5,"name":"Mohamed Eid","salary":6000},
+{"id":8,"name":"Marwa Hussen","salary":5000},
+{"id":9,"name":"Yousef Hatem","salary":5000},
+{"id":10,"name":"Shaima Azoz","salary":5000},
+]
+
+
+

@@ -1,0 +1,18 @@
+1-Make function get_even_numbers from a List this function take list and return new list Even Numbers only
+
+Ex:
+L1=get_even_numbers([2,3,4,1,6,9])	#[2,4,6]
+
+
+2-Make function search_in_list from   this function take id and return dictionary matched this id
+
+Ex:
+l1=[
+{"id":2,"name":"Manal Fakieh","salary":5000},
+{"id":5,"name":"Mohamed Eid","salary":6000},
+{"id":8,"name":"Marwa Hussen","salary":5000},
+{"id":9,"name":"Yousef Hatem","salary":5000},
+{"id":10,"name":"Shaima Azoz","salary":5000},
+]
+d1=search_in_list(5)
+#{"id":5,"name":"Mohamed Eid","salary":6000}

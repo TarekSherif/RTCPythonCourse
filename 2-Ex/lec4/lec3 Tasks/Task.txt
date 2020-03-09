@@ -1,0 +1,35 @@
+1-Make function GetCount() this function take list Parameter and return list Count   like len() function
+
+Ex:
+Count=GetCount([2,4,6,1,6,9])	#6
+
+
+2-Make function GetTotal() this function take list of number and return summation Like sum() function
+
+Ex:
+Total=GetTotal([2,4,6,1,6,9])	#29
+
+
+3-Make function GetAVG() this function take list of number and return average 
+
+Ex:
+average=GetAVG([2,4,6,1,6,9])	#4.6
+
+
+
+4-Make function removeDuplicates from a List this function take list and return new list without Duplicates
+
+Ex:
+L1=removeDuplicates([2,4,4,1,6,2])	#[2,4,1,6]
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+1-Make function removeDuplicates from a List this function take list and return new list without Duplicates
+
+Ex:
+L1=removeDuplicates([2,4,4,1,6,2])	#[2,4,1,6]
+
+
+2-Make function get_min from a List this function take list and return min value
+
+Ex:
+min=get_min([2,4,4,1,6,2])	#1
+
+
+3-Make function get_max from a List this function take list and return maxvalue
+
+Ex:
+max=get_max([2,4,4,1,6,2])	#6
+
+
+4-Make function sort_list from a List this function take list and return new sorted list
+
+sortedList=sort_list([2,4,4,1,6,2])	#[1,2,2,4,4,6]
+
+
+
+
+
+
+
+
+
+
+
+
+
+

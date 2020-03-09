@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>{{name}}</h1>
+    <form action="/ShowEmpData" method="GET">
+      <table>
+        <tr>
+          <th>
+            <label for="id">id</label>
+          </th>
+          <td>
+            <input type="number" name="id" />
+          </td>
+        </tr>
+        <tr>
+          <th>
+            <label for="name">name</label>
+          </th>
+          <td>
+            <input type="text" name="name" />
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            <label for="salary">salary</label>
+          </th>
+          <td>
+            <input type="number" name="salary" />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <input type="submit" value="submit" />
+          </td>
+        </tr>
+      </table>
+    </form>
+  </body>
+</html>
